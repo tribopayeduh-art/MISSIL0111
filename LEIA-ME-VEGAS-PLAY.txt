@@ -1,0 +1,9 @@
+VEGAS PLAY
+
+Logo aplicada na plataforma e nos 16 banners promocionais.
+Verde principal da identidade: #00B85C.
+
+Instalar: npm install
+Compilar: npm run build
+Executar: npm run dev
+Consulte o README original para configuração do servidor.
